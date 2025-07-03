@@ -1,5 +1,5 @@
 # Conquer the Command Line, 3rd Edition
-Code and resources for Conquer the Command Line, 3rd Edition from [Raspberry Pi Press](https://store.rpipress.cc/collections/latest-releases/products/conquer-the-command-line).
+Code and resources for Conquer the Command Line, 3rd Edition from [Raspberry Pi Press](https://store.rpipress.cc/collections/latest-releases/products/conquer-the-command-line), [Amazon UK](https://www.amazon.co.uk/dp/191686838X), and [Amazon US](https://www.amazon.com/dp/191686838X).
 
 * [Report an issue you've encountered in the book](https://github.com/raspberrypipress/conquer-the-command-line-3e/issues/new/choose)
 
